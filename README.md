@@ -8,8 +8,8 @@ Para acessar, basta clicar em “Sign In”, colocar seu Gmail e pronto.
 
 Caso nao tenha um Gmail, use este:
 
-  ###testelogin05@gmail.com
-  ###senha: facebook-clone
+  `testelogin05@gmail.com
+  senha: facebook-clone`
  
 
 É possível fazer postagens. Basta ir ao campo de criação da postagem e escrever sua mensagem e colocar uma imagem se quiser também, aí é só apertar Enter
