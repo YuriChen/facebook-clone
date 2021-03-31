@@ -6,8 +6,7 @@ A principal motivação de fazer esse projeto foi aprender React. Achei que seri
 
 Para acessar, basta clicar em “Sign In”, colocar seu Gmail e pronto.
 
-Caso nao tenha um Gmail, use este:
-
+> Caso nao tenha um Gmail, use este:
   `testelogin05@gmail.com`
   `senha: facebook-clone`
  
