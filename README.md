@@ -4,7 +4,8 @@
 
 * A principal motivação de fazer esse projeto foi aprender React. Achei que seria legal recriar o site dos próprios criadores da tecnologia.
 
-* Para acessar, basta clicar em “Sign In”, colocar seu Gmail e pronto. 
+* Para acessar, basta clicar em “Sign In”, colocar seu Gmail e pronto! Você será levado à página Home.
+
 
 > Caso nao tenha um Gmail, use este:
   `testelogin05@gmail.com`
