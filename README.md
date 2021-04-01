@@ -18,4 +18,4 @@
 * É possível fazer postagens. Basta ir ao campo de criação da postagem e escrever sua mensagem e colocar uma imagem se quiser também, aí é só apertar Enter
 Ao publicar o post, ele será armazenado para o banco de dados do Firebase.
 
-## VEJA O APP: facebook-clone-fcec9.web.app
+## VEJA O APP: https://facebook-clone-fcec9.web.app/
